@@ -60,6 +60,36 @@ public class Seller implements Serializable {
 			return "Seller [id=" + id + ", name=" + name + ", email=" + email + ", baseSalary=" + baseSalary
 					+ ", department=" + department + "]";
 		}
+
+		public void setId(int int1) {
+			// TODO Auto-generated method stub
+			
+		}
+
+		public void setName(String string) {
+			// TODO Auto-generated method stub
+			
+		}
+
+		public void setBirthDate(java.sql.Date date) {
+			// TODO Auto-generated method stub
+			
+		}
+
+		public void setBaseSalary(double double1) {
+			// TODO Auto-generated method stub
+			
+		}
+
+		public void setEmail(String string) {
+			// TODO Auto-generated method stub
+			
+		}
+
+		public void setDepartment(Department dep) {
+			// TODO Auto-generated method stub
+			
+		}
 		
 		
 }
